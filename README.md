@@ -1,8 +1,8 @@
 # ecommerce_app
 
 ## App configuration
-- [ ] Create new project
-- [ ] Setup professional folder structure
+- [x] Create new project
+- [x] Setup professional folder structure
 - [ ] Set up light and dark themes, include buttons, text fields, appbar, chip and others
 - [ ] Create helper functions, constants, and utility classes.
 
