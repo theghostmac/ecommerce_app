@@ -11,9 +11,7 @@ class EcommerceAppTheme {
     primaryColor: Colors.blue,
     scaffoldBackgroundColor: Colors.white,
     textTheme: EcommerceTextTheme.lightTextTheme,
-    elevatedButtonTheme: ElevatedButtonThemeData(
-
-    )
+    elevatedButtonTheme: EcommerceElevatedButtonTheme.lightElevatedButton,
   );
 
   static ThemeData darkTheme = ThemeData(
@@ -23,5 +21,6 @@ class EcommerceAppTheme {
     primaryColor: Colors.blue,
     scaffoldBackgroundColor: Colors.black,
     textTheme: EcommerceTextTheme.darkTextTheme,
+    elevatedButtonTheme: EcommerceElevatedButtonTheme.darkElevatedButton,
   );
 }
