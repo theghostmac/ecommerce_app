@@ -12,6 +12,17 @@ class EcommerceColors {
   static const Color textPrimary = Color(0xFF333333);
   static const Color textSecondary = Color(0xFF6C757D);
   static const Color textWhite = Colors.white;
+  
+  // Gradient Colors.
+  static const Gradient linearGradient = LinearGradient(
+    begin: Alignment(0.0, 0.0),
+    end: Alignment(0.707, -0.707),
+    colors: [
+      Color(0xffff9a9e),
+      Color(0xfffad0c4),
+      Color(0xfffad0c4),
+    ],
+  );
 
   // Background Colors.
   static const Color light = Color(0xFFF6F6F6);
