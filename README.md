@@ -3,7 +3,7 @@
 ## App configuration
 - [x] Create new project
 - [x] Setup professional folder structure
-- [ ] Set up light and dark themes, include buttons, text fields, appbar, chip and others
+- [x] Set up light and dark themes, include buttons, text fields, appbar, chip and others
 - [ ] Create helper functions, constants, and utility classes.
 
 ## Login design
