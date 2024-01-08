@@ -1,16 +1,52 @@
 # ecommerce_app
 
-A new Flutter project.
+## App configuration
+- [ ] Create new project
+- [ ] Setup professional folder structure
+- [ ] Set up light and dark themes, include buttons, text fields, appbar, chip and others
+- [ ] Create helper functions, constants, and utility classes.
 
-## Getting Started
+## Login design
+- [ ] Native splash screen
+- [ ] 3 onboarding screens
+- [ ] Register screen with Email Verification and Success screen
+- [ ] Login Screen
+- [ ] Forget and reset password screens
 
-This project is a starting point for a Flutter application.
+## E-commerce design
+- [ ] Bottom Navigation
+- [ ] Curved design challenge with background
+- [ ] Custom AppBar
+- [ ] Search widget and scrolling categories
+- [ ] Banners with sliders
+- [ ] Product design and grid layout
+- [ ] Tab layout, AppBar, Search and Featured Brands
+- [ ] TabBar categories content
+- [ ] Wishlist screen
+- [ ] Settings screen
+- [ ] Profile screen
+- [ ] Product details (Image and Text) (Attributes and Variations)
+- [ ] Ratings and Reviews
+- [ ] Addresses
+- [ ] Cart
+- [ ] Checkout
+- [ ] Orders screen
+- [ ] Sub categories with horizontal product scroll
+- [ ] View all products
+- [ ] View all brands and brand-specific products
 
-A few resources to get you started if this is your first Flutter project:
+## Login Backend
+- [ ] Firebase setup
+- [ ] Onboarding
+- [ ] Register user and email verification
+- [ ] Login using email and password
+- [ ] Google and Facebook signing
+- [ ] Forgot and reset password.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Backend
+- [ ] Fetch Categories
+- [ ] Fetch brands
+- [ ] Fetch products
+- [ ] add, remove wishlist items for each user
+- [ ] add to cart
+- [ ] Checkout and create orders.
